@@ -17,4 +17,6 @@ mode.onclick = () => {
    } else {
       background.style.display = 'block';
    }
+
+   
 }
